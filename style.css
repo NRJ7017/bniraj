@@ -1,0 +1,509 @@
+
+.background{background-image:url("image/transparent1.jpg");
+    
+	background-size:700px 400px;
+	background-attachment:fixed;
+	background-position:center;
+	
+}
+
+body{
+   
+	position: relative;
+}
+
+
+nav{
+padding:0px 0px 0px 30px;
+	
+	
+}
+.navbar-inverse{
+    background-color:;
+   
+    margin:2px;
+    border-bottom:2px solid black;
+    border-radius:2px;
+    opacity:.8;
+
+}
+
+
+nav h1{
+	font-size:50px;
+	margin:0px;
+	font-weight:700;
+	color:white;
+	font-family:Bradley Hand ITC;
+}
+ .navbar-inverse .navbar-nav > ul{
+	display:flex;
+    justify-content:center;
+    list-style:none;
+	
+
+}
+.navbar-inverse .navbar-nav >li{
+	text-align:right;
+	background-color:;
+	font-size:20px;
+	margin:0px 10px;
+	color:black;
+	border: px solid black;
+}
+.navbar-inverse .navbar-nav>li>a{
+color:black;
+font-weight: 600;
+
+}
+.navbar-custom .navbar-nav > .active > a{
+	color:black;
+	background-color:;
+	border-bottom: 1px solid white;
+	
+}
+
+
+/*  --------NAV HEAD-----*/
+
+.nav-head h2{
+	text-align:center;
+    padding:20px;
+    font-size:40px;
+    font-family:Georgia;
+    color:white;
+	margin:10px;
+    
+}
+
+/* JUMBO*/
+
+video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    width: auto;
+    height:auto;
+    z-index: -1;
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+    transition: 1s opacity;
+    
+
+}
+
+
+.jumbo{
+height:700px;
+border: px solid black;
+background-image:url("");
+background-size:cover;
+background-attachment:fixed;
+margin: 0px;
+}
+
+
+
+.profile{
+display: flex;
+align-items: center;	
+width:600px;
+height: 300px;
+position: relative;
+left:400px;
+top:300px;
+border:  1px solid white;
+ border-radius: 0px 50px;
+ 
+
+ 
+}
+
+}
+
+.profile-pic{
+  width: 300px;
+  height: 300px;
+  
+}
+#profile-pic{
+	margin-left: 50px;
+   width: 200px;
+  height: 200px;
+border:  px solid white;
+}
+.profile-info{
+ width: 300px;
+ height: 300px;
+ text-align:left;
+ padding:30px 1px 20px 30px;
+ color:white;
+ 
+  border-left: 1px solid white;
+ margin-left: 50px;
+}
+
+
+
+.contact{
+	display:flex;
+	justify-content:center;
+	left:400px;
+    top:300px;
+    width: 600px;
+    position: relative;
+	margin: 0px;
+	border: px solid black;
+	background-color: ;
+	z-index: 1;
+}
+.fb {
+	background-color:;
+	margin: 10px 10px;
+	padding:0px ;
+	width:50px;
+	border: px solid black;
+	text-align:center;
+	border:px solid black;
+	
+	
+}
+
+.comunication{border:px solid black;
+	width:40px;
+	height:40px;
+	margin:0px 0px;
+}
+
+/*----------------INTRODUCTION-----------*/
+.introduction{
+   
+	height:500px;
+	background-color:black ;
+	background-size: cover;
+    opacity:.5;
+	padding:90px ;
+    
+}
+.intro-head{
+	color:white;
+    border:px solid black;
+	font-family:Georgia;
+	text-align:center;
+	font-size:50px;
+    opacity:1;
+	padding:30px 0px 0px 0px;
+}
+.intro-text{
+	color:white;
+	text-align:center;
+	font-size:20px;
+	padding:10px;
+	border:1px solid black;
+}
+
+/* --------------------EDUCATION-------*/
+
+
+.education{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	margin:20px 0px;
+	
+
+	
+	
+	
+}
+
+#colg-pic{
+	padding:0px ;
+	width:600px;
+	height:400px;
+	border-right:1px solid black;
+	
+}
+.colg-pic{
+	 width: 00px;
+    height: 400px;
+    background:nav;
+	transition:width 1s;
+    opacity:.9;
+
+	
+}
+.colg-pic:hover{
+	width:600px;
+   opacity:1;
+  
+   }
+		     
+		   
+.colg-intro{font-weight:500;
+	text-align:left;
+	width:600px;
+	height:400px;
+	border:px solid black;
+	padding:40px 0px 40px 100px;
+	background-color:steelblue;
+	
+	
+}
+#year{font-size:15px;
+	position:relative;
+	left:150px;
+}
+
+
+/*----POR---*/
+
+
+
+section{
+	border:px solid black;
+	
+	text-align:center;
+}
+section.row{
+	 display: flex;
+	 align-items:center;
+	 
+}
+section h3{
+	border:px solid black;
+	background-color:;
+	color:Black;
+}
+section p{
+	
+	line-height:20px;
+	text-align:left;
+	padding:40px 0px 0px 30px;
+}
+section .box1{
+	height:300px;
+	width:395px;
+	background-image:url("image/ghm.jpg");
+	background-size:cover;
+	border:px solid black;
+	margin-left:40px;
+    transition:background-image 1s;
+}
+section .box2{
+	height:300px;
+	width:380px;
+	background-image:url("image/vote.jpg");
+	background-size: 380px 300px;
+    background-repeat: no-repeat;
+	background-position: center;
+	border:px solid black;
+	margin-left:40px;
+    transition:background-image 1s;
+}
+section .box3{
+	height:300px;
+	width:380px;
+	background-image:url("image/techno.jpg");
+	background-size:380px 300px ;
+    background-repeat: no-repeat;
+	background-position: center;
+	border:px solid black;
+	
+	margin-left:40px;
+    transition:background-image 1s;
+}
+section:hover{
+	 background-color:transparent; 
+	
+}
+.box1:hover {
+	background-image:url("image/ghm-writeup.png");
+}
+
+.box2:hover {
+	background-image:url("image/vote-writeup.png");	
+}
+
+.box3:hover {
+	background-image:url("image/techno-writeup.png");
+		
+}
+
+
+
+
+.skill1{
+	width:250px;
+	height:95px;
+	background-color:navy;
+	color:white;
+	transition: width 1s,background-color 3s ;
+	transition-timing-function: ease-out;
+    text-align:center;
+    padding:10px 20px 0px 20px;
+	border:1px solid black;
+	margin:50px 50px 50px 100px;
+}
+.skill1:hover{
+	width:500px;
+	background-color:coral;
+}
+.skill-back-img{
+	background-image:url("image/skill.jpg");
+	background-size:cover;
+}
+
+/*-----------CONTACT--------*/
+header.container-fluid {
+	text-align:center;
+	background-color:white;
+}
+aside.container-fluid{
+	background-color:;
+	opacity: ;
+	
+}
+.contact1{height:500px;
+    padding:20px;
+	border-top:0px solid white;
+	text-align:center;
+	
+}
+
+
+.vertical-line{
+	height:500px;
+	width:1px;
+	background-color:white;
+	float:left;
+}
+input[type=text],[type=email]{
+	width:65%;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color:white;
+    font-size: 13px;
+	padding: 10px 10px;
+    margin: 0px 0;
+    
+}
+textarea{
+	width:65%;
+	height:200px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color:white;
+    font-size: 16px;
+	padding: 10px 10px;
+	color:white;
+	
+}
+input[type=submit]{
+	width:65%;
+	text-align:center;
+	height:60px;
+	box-sizing:border-box;
+	font-size: 20px;
+	background-color:midnightblue;
+	color:white;
+	opacity: 1;
+	
+}
+
+.contact2{
+	padding:50px 20px 20px 0px;
+	text-align:left;
+	color: white;
+	
+}
+.contact2 h5{
+	line-height:15px;
+}
+.contact-media{
+display: flex;
+align-items:center;
+justify-content: center;
+
+border:px solid black;
+
+}
+.social-site{
+	border:px solid black;
+	margin:0px 20px;
+	
+	
+}
+.top{
+	text-align:center;
+	background-color:;
+	font-size: 20px;
+	opacity: ;
+}
+footer p{
+	background-color:midnightblue;
+	text-align:center;
+	color:white;
+	border:px solid black;
+}
+.row-work{
+	height: 400px;
+	border:px solid black;
+}
+.works{
+	height: 400px;
+	
+border:1px solid white;	
+}
+.works-name{
+	margin:10px;
+	padding: 2px;
+	text-align: center;
+	color: black;
+	background-color: white;
+	height: 100px;
+	border:px solid black;
+}
+.works-logo1{
+	background-image: url(image/secondary.png);
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	position: absolute;
+	left: 25%;
+	top: 25%;
+	height: 200px;
+	width: 200px;
+	border:px solid black;
+	border-radius: 100px;
+}
+.works-logo2{
+	background-image: url(image/person-icon.png);
+	background-size:contain;
+	background-position: center;
+	margin-top: 50px;
+	position: absolute;
+	left: 25%;
+	top: 25%;
+	height: 200px;
+	width: 200px;
+	border:px solid black;
+	border-radius: 100px;
+}
+.works-logo3{
+	background-image: url(image/chemistry.png);
+	background-size:cover;
+	background-position: center;
+	margin-top: 50px;
+	position: absolute;
+	left: 25%;
+	top: 25%;
+	height: 200px;
+	width: 200px;
+	border:px solid black;
+	border-radius: 100px;
+}
