@@ -75,7 +75,7 @@ padding: 50px 0px 50px 70px;
 .slide{
      height: 500px;
      width: 100%;
-    background-image: url(img/jnvk.jpg);
+    background-image: url(css/img/jnvk.jpg);
     background-size:cover;
     background-attachment:inherit;
     
@@ -179,7 +179,7 @@ padding: 50px 0px 50px 70px;
     background-color: white;
     border-radius: 100px;
      z-index: 1;
-    background-image: url(school/css/img/jnv1.png);
+    background-image: url(css/img/jnv1.png);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
