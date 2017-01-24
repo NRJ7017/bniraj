@@ -3,7 +3,7 @@
    padding: 60px 0px;
     height:650px;
     margin: 0px;
-   background-image:url(img/backg.jpg);
+   background-image:url(css/img/backg.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size:cover;
@@ -16,7 +16,7 @@ body{
     
     margin:0px auto;
     padding: 40px auto;
-    background-image:url(img/bg.jpg);
+    background-image:url(css/img/bg.jpg);
     background-attachment: fixed;
     background-position:center;
     background-size:cover;
@@ -50,7 +50,7 @@ body{
 .aboutUs{
     padding: 15px;
     color:black;
-    background-image: url(img/white-wallpaper-preview-15.jpg);
+    background-image: url(css/img/white-wallpaper-preview-15.jpg);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ body{
     font-size:20px;
     height: 350px;
     padding: 10px;
-    background-image: url("img/download.jpg");
+    background-image: url("css/img/download.jpg");
     background-size: cover;
     opacity: .8;
     
@@ -120,7 +120,7 @@ body{
     font-size:20px;
     height:350px;
     padding: 10px;
-    background-image: url("img/download.jpg");
+    background-image: url("css/img/download.jpg");
     background-size: cover;
     opacity: .8;
 }
