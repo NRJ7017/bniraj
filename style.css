@@ -229,13 +229,13 @@ border:  px solid white;
 	 width: 00px;
     height: 400px;
     background:nav;
-	transition:width 1s;
+    transition:width 1s;
     opacity:.9;
 
 	
 }
 .colg-pic:hover{
-	width:600px;
+	width:px;
    opacity:1;
   
    }
