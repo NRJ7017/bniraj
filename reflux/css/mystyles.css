@@ -3,7 +3,7 @@
    padding: 60px 0px;
     height:650px;
     margin: 0px;
-   background-image:url("img/theme.jpg");
+   background-image:url("css/img/theme.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size:cover;
@@ -16,7 +16,7 @@ body{
     
     margin:0px auto;
     padding: 40px auto;
-    background-image:url("img/bg.jpg");
+    background-image:url("css/img/bg.jpg");
     background-attachment: fixed;
     background-position:center;
     background-size:cover;
