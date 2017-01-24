@@ -1,0 +1,159 @@
+
+.jumbotron{
+   padding: 60px 0px;
+    height:650px;
+    margin: 0px;
+   background-image:url(img/backg.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+   
+}
+
+body{
+    
+    margin:0px auto;
+    padding: 40px auto;
+    background-image:url(img/bg.jpg);
+    background-attachment: fixed;
+    background-position:center;
+    background-size:cover;
+ 
+
+}
+.bg{
+   
+     background-image:url(img/);
+    background-attachment:fixed;
+    background-position:center;
+    background-size:cover;
+}
+
+.row-header{
+     margin:180px auto;
+    padding:0px auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.row-header p{
+    color:greenyellow;
+    font-size:90px;
+    font-family: Lucida Handwriting;
+    font-weight:850;
+}
+.row-header h3{
+    color:brown;
+    font-size: 30px;
+}
+.aboutUs{
+    padding: 15px;
+    color:black;
+    background-image: url(img/white-wallpaper-preview-15.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align:justify;
+    border: 2px solid white;
+
+}
+.heading h1{
+    text-align: center;
+    font-size: 70px;
+    font-family:Lucida Handwriting;
+    color: aqua;
+    margin: 70px 0px;
+    padding: 0px;
+
+}
+.aboutUs p{
+    font-size: 20px;
+}
+.event{
+  height: 515px; 
+  border: 3px solid white;
+   margin-top:100px;
+   padding-top: 20px;
+    margin-bottom: 100px;
+
+}
+.event h1{
+    color:aqua;
+    text-align: center;
+    font-family: Lucida Handwriting;
+}
+.event p{
+    border: 0px solid black;
+    color: black;
+    margin-top: 50px;
+    text-align:justify;
+    font-size:20px;
+    height: 350px;
+    padding: 10px;
+    background-image: url("img/download.jpg");
+    background-size: cover;
+    opacity: .8;
+    
+}
+.competition{
+ height: 515px; 
+  border: 3px solid white;
+   margin-top:100px;
+ padding-top: 20px; 
+    margin-bottom: 100px;
+}
+.competition h1{
+    color:aqua;
+    text-align: center;
+     font-family: Lucida Handwriting;
+}
+.btn{
+    background-color:aqua;
+    color: black;
+}
+
+.competition p{
+    border: px solid black;
+    color:black;
+    margin-top: 50px;
+    font-size:20px;
+    height:350px;
+    padding: 10px;
+    background-image: url("img/download.jpg");
+    background-size: cover;
+    opacity: .8;
+}
+.navbar-inverse {
+     background:aqua;
+     padding: 0px;
+    opacity: 1;
+}
+.row-sponsor .col-sm-2{
+    height:200px;
+    border:1px solid white;
+    margin:0px;
+    padding: 5px;
+}
+.row-sponsors .col-sm-4,.col-sm-2{
+    height:250px;
+     border:1px solid white;
+}
+.sponsor-logo{
+    height:250px;
+    width:350px;
+    padding: 0px 20px;
+    margin: 0px 20px;
+    
+}
+sponsor-logos{
+    height: 250px;
+    width:240px;
+}
+.sponsor{
+    height:190px;
+    width:240px;
+}
+.item{
+  height:350px;  
+}
