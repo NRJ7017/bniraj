@@ -75,7 +75,7 @@ padding: 50px 0px 50px 70px;
 .slide{
      height: 500px;
      width: 100%;
-    background-image: url(img/jnvk.jpg);
+    background-image: url(css/img/jnvk.jpg);
     background-size:cover;
     background-attachment:inherit;
     
@@ -134,7 +134,7 @@ padding: 50px 0px 50px 70px;
 }
 .row-section1{
     height: 500px;
-    background-image: url(img/new-school-year-bg.jpg);
+    background-image: url(css/img/new-school-year-bg.jpg);
     background-attachment:fixed;
     background-size: cover;
 }
@@ -161,7 +161,7 @@ padding: 50px 0px 50px 70px;
 }
 .row-section2{
     height: 500px;
-    background-image: url(img/peace.jpg);
+    background-image: url(css/img/peace.jpg);
     background-attachment:fixed;
     background-size:cover;
 }
@@ -179,7 +179,7 @@ padding: 50px 0px 50px 70px;
     background-color: white;
     border-radius: 100px;
      z-index: 1;
-    background-image: url(img/jnv1.png);
+    background-image: url(css/img/jnv1.png);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@ padding: 50px 0px 50px 70px;
     background-color: white;
     border-radius: 100px;
      z-index: 1;
-    background-image: url(img/gallery.png);
+    background-image: url(css/img/gallery.png);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;  
@@ -205,7 +205,7 @@ padding: 50px 0px 50px 70px;
     background-color: white;
     border-radius: 100px;
      z-index: 1;
-    background-image: url(img/download.png);
+    background-image: url(css/img/download.png);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;  
@@ -218,7 +218,7 @@ padding: 50px 0px 50px 70px;
     background-color: white;
     border-radius: 100px;
     z-index: 1;
-    background-image: url(img/map.png);
+    background-image: url(css/img/map.png);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;  
@@ -226,7 +226,7 @@ padding: 50px 0px 50px 70px;
 .row-footer{
     height:450px;
    
-    background-image: url(img/jnvktr.jpg);
+    background-image: url(css/img/jnvktr.jpg);
     background-size: cover;
     background-attachment:inherit;
     border:px solid black;
